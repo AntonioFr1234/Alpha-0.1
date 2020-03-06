@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Lenovo",
+        "price": 2800.00,
+        "image": { "fields": { "file": { "url": "./S/thumbnail_LENOVO2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Acer A314-31",
+        "price": 5100.00,
+        "image": { "fields": { "file": { "url": "./S/thumbnail_ACER14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Acer A315",
+        "price": 5100.00,
+        "image": { "fields": { "file": { "url": "./S/thumbnail_ACERa3155.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Acer spin",
+        "price": 5217.00,
+        "image": { "fields": { "file": { "url": "./S/thumbnail_ACERSPIN.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Dell Inspiron 15",
+        "price": "5840.00",
+        "image": { "fields": { "file": { "url": "./S/thumbnail_DELL3593.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Acer Nitro",
+        "price": "Q.7712.00",
+        "image": { "fields": { "file": { "url": "./S/thumbnail_ACER.JPG" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "HP ENVY x360",
+        "price": "10,870.00",
+        "image": { "fields": { "file": { "url": "./S/thumbnail_HP.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Samsung - Tab A - 10.1",
+        "price": "",
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Samsung - T860 - 10.5",
+        "price": "6157.00",
+        "image": { "fields": { "file": { "url": "./s/thumbnail_AGASSI2-W19B.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "MediaPad T5 - 10.1",
+        "price": "1926.25",
+        "image": { "fields": { "file": { "url": "./S/thumbnail_HUAWEIAGASSI2-W19B.jpg" } } }
+      }
+    }
+  ]
+}
